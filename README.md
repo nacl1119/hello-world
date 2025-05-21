@@ -1,5 +1,3 @@
-# hello-world
-test GitHub project
-Name: TAEHO MOON
-E-mail: nacl1119@gmail.com
-Date: 05MAY2017
+# MEMO
+## Camping Info
+https://blog.naver.com/boringdel/222084723791
